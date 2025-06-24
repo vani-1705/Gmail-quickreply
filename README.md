@@ -1,4 +1,8 @@
 # Gmail-quickreply
+# PROJECT LOGIC:
+-In this project u can see question from popup box and answer in that box.
+-This is not connected to real gmail but u can answer to that question it shows ur answer.
+
 ![Gmail-reply](https://github.com/user-attachments/assets/b4f4f9a3-8e65-454e-9edd-41340a88536a)
 📬 Gmail Quick Reply Simulator
 
